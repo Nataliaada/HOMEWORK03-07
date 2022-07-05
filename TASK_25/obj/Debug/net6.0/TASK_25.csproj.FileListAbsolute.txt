@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\bin\Debug\net6.0\TASK_25.exe
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\bin\Debug\net6.0\TASK_25.deps.json
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\bin\Debug\net6.0\TASK_25.runtimeconfig.json
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\bin\Debug\net6.0\TASK_25.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\bin\Debug\net6.0\TASK_25.pdb
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\refint\TASK_25.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.pdb
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\TASK_25.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK_25\obj\Debug\net6.0\ref\TASK_25.dll
