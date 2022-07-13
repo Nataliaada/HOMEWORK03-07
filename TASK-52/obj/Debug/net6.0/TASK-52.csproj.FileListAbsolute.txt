@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\bin\Debug\net6.0\TASK-52.exe
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\bin\Debug\net6.0\TASK-52.deps.json
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\bin\Debug\net6.0\TASK-52.runtimeconfig.json
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\bin\Debug\net6.0\TASK-52.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\bin\Debug\net6.0\TASK-52.pdb
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\refint\TASK-52.dll
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.pdb
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\TASK-52.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar 28-06\TASK-52\obj\Debug\net6.0\ref\TASK-52.dll
