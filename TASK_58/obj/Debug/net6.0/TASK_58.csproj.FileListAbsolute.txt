@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.AssemblyInfo.cs
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\bin\Debug\net6.0\TASK_58.exe
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\bin\Debug\net6.0\TASK_58.deps.json
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\bin\Debug\net6.0\TASK_58.runtimeconfig.json
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\bin\Debug\net6.0\TASK_58.dll
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\bin\Debug\net6.0\TASK_58.pdb
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.dll
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\refint\TASK_58.dll
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.pdb
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\TASK_58.genruntimeconfig.cache
+C:\Users\user\Desktop\HOMEWORK 03-07\TASK_58\obj\Debug\net6.0\ref\TASK_58.dll

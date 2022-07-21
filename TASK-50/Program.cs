@@ -51,16 +51,21 @@ void PrintMatrix(int[,] arr)
 }
 void FindNum(int [,] arr, int a)
 {
-    
-    string r = "Такого числа в массиве нет";
+    int count = 0;
+    string r = "Такой позиции в массиве нет";
         for (int i = 0; i < arr.GetLength(0); i++)
         {
             for (int j = 0; j < arr.GetLength(1); j++)
             {
-                if (arr[i, j] == x) r = "Такое число в массиве есть";
+               count = count + 1; 
+             r = "Такая позиция в массиве есть";
             }
+        
+        if (count == a)
+        Console.WriteLine(r);
+
         }    
-    
+   
     Console.WriteLine();
     Console.WriteLine($"{a} -> {r}");
 }
