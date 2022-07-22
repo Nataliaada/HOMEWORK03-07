@@ -1,51 +1,16 @@
-﻿
-// Задача 62. Заполните спирально массив 4 на 4.
-
-// Например, на выходе получается вот такой массив:
-
-// 01 02 03 04
-
-// 12 13 14 05
-
-// 11 16 15 06
-
-// 10 09 08 07
+﻿// Задача 64: Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.
+// N = 5 -> "5, 4, 3, 2, 1"
+// N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
 
-int n = 4;
-int[,] Matrix = new int[n, n];
+Console.Clear();
+Console.WriteLine("Введите число: ");
+int num = int.Parse(Console.ReadLine());
 
-int temp = 1;
-int i = 0;
-int j = 0;
-
-while (temp <= Matrix.GetLength(0) * Matrix.GetLength(1))
+NaturaNumber(num);
+void NaturaNumber (int num)
 {
-  Matrix[i, j] = temp;
-  temp++;
-  if (i <= j + 1 && i + j < Matrix.GetLength(1) - 1)
-    j++;
-  else if (i < j && i + j >= Matrix.GetLength(0) - 1)
-    i++;
-  else if (i >= j && i + j > Matrix.GetLength(1) - 1)
-    j--;
-  else
-    i--;
-}
-
-WriteArray(Matrix);
-
-void WriteArray (int[,] array)
-{
-  for (int i = 0; i < array.GetLength(0); i++)
-  {
-    for (int j = 0; j < array.GetLength(1); j++)
-    {
-      if (array[i,j] / 10 <= 0)
-      Console.Write($" {array[i,j]} ");
-
-      else Console.Write($"{array[i,j]} ");
-    }
-    Console.WriteLine();
-  }
+if (num == 0) return;
+Console.Write($"{num} ,");
+NaturaNumber (num -1);
 }
